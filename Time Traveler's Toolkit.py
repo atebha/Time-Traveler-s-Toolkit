@@ -9,4 +9,5 @@ from random import choice
 date = dt.datetime.today()
 time = dt.datetime.now().time()
 
+# Retrieve current date and time
 print(f"Today's date is {date}. The current {time}.")
